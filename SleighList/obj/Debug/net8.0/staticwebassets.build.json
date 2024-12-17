@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yp8boEWgOuH29rnXBwks8GmRTZLURy8jK3xlLVyB3Z4=",
+  "Hash": "dXmp3g6rWdZIMp6rspU4z1FKSekHveRo5AfDWVPJwTo=",
   "Source": "SleighList",
   "BasePath": "_content/SleighList",
   "Mode": "Default",
@@ -74,12 +74,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\50178746827\\Desktop\\SleighList_MVC\\SleighList\\wwwroot\\images\\Background.png",
+      "Identity": "C:\\Users\\50178746827\\Desktop\\SleighList_MVC\\SleighList\\wwwroot\\images\\Fundo_Logo.png",
       "SourceId": "SleighList",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\50178746827\\Desktop\\SleighList_MVC\\SleighList\\wwwroot\\",
       "BasePath": "_content/SleighList",
-      "RelativePath": "images/Background.png",
+      "RelativePath": "images/Fundo_Logo.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -90,7 +90,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Background.png"
+      "OriginalItemSpec": "wwwroot\\images\\Fundo_Logo.png"
     },
     {
       "Identity": "C:\\Users\\50178746827\\Desktop\\SleighList_MVC\\SleighList\\wwwroot\\images\\loguinho.png",

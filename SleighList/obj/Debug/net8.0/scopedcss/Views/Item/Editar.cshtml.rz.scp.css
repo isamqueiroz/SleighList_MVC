@@ -38,16 +38,16 @@
     justify-content: center;
     align-items: center;
     /* margin: 20px 0; */
-    height: 100vh;
+    height: 650px;
 }
 
 .edit-form[b-j7qg32rdd6] {
     background-color: #fff;
     border: 1px solid #c0c0c0;
-    border-radius: 10px;
-    padding: 20px;
+    /* border-radius: 10px; */
+    padding: 21px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    max-width: 500px;
+    max-width: 832px;
     width: 100%;
 }
 
@@ -96,9 +96,11 @@
 .footer[b-j7qg32rdd6] {
     background-color: #8B0000;
     color: #fff;
+    padding: 18px 20px;
     text-align: center;
-    padding: 10px;
-    margin-top: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 *[b-j7qg32rdd6]{
@@ -106,7 +108,7 @@
     margin: 0;
 }
 
-.header_login[b-j7qg32rdd6]{
-    background-image: url("/images/Background.png");
-    height: 400px;
+.edit-container[b-j7qg32rdd6]{
+    background-image: url("/images/Fundo_Logo.png");
+  
 }
