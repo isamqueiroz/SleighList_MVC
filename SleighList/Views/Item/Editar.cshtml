@@ -1,38 +1,36 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SleighList - Editar Item</title>
-    <link rel="stylesheet" href="styles.css">
-    <script defer src="controller.js"></script>
-</head>
-<body>
-    <header class="header">
-        <button class="back-button">&#8592;</button>
-        <h1>SleighList</h1>
+
+    <!-- Topo Vermelho -->
+    <header class="top-header">
+       <img src="~/images/loguinho.png" alt="logo">
     </header>
 
-    <main>
-        <section class="edit-item-container">
+    <!-- Área de Edição -->
+    <main class="edit-container">
+        <form class="edit-form" style="background-color: #fff;
+    border: 1px solid #c0c0c0;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    width: 100%;">
             <h2>Editar Item</h2>
-            <form id="edit-item-form">
-                <label for="item-name">Nome</label>
-                <input type="text" id="item-name" name="name" required>
-
-                <label for="item-price">Preço por unidade</label>
-                <input type="number" id="item-price" name="price" step="0.01" required>
-
-                <label for="item-quantity">Quantidade</label>
-                <input type="number" id="item-quantity" name="quantity" min="1" required>
-
-                <button type="submit" class="save-button">Salvar Alterações</button>
-            </form>
-        </section>
+            <div class="form-group">
+                <label for="nome">Nome</label>
+                <input type="text" id="nome" name="nome" placeholder="">
+            </div>
+            <div class="form-group">
+                <label for="preco">Preço por unidade</label>
+                <input type="number" id="preco" name="preco" placeholder="">
+            </div>
+            <div class="form-group">
+                <label for="quantidade">Quantidade</label>
+                <input type="number" id="quantidade" name="quantidade" placeholder="">
+            </div>
+            <button type="submit" class="btn-submit">Salvar Alterações</button>
+        </form>
     </main>
 
-    <footer>
+    <!-- Rodapé Vermelho -->
+    <footer class="footer">
         <p>&copy; 2024 - SEDUC - SleighList</p>
     </footer>
-</body>
-</html>

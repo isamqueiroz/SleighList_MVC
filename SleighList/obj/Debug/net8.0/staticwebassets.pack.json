@@ -5,12 +5,16 @@
       "PackagePath": "staticwebassets\\SleighList.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\50178746827\\Desktop\\SleighList_MVC\\SleighList\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
-    },
-    {
       "Id": "C:\\Users\\50178746827\\Desktop\\SleighList_MVC\\SleighList\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\50178746827\\Desktop\\SleighList_MVC\\SleighList\\wwwroot\\images\\Background.png",
+      "PackagePath": "staticwebassets\\images\\Background.png"
+    },
+    {
+      "Id": "C:\\Users\\50178746827\\Desktop\\SleighList_MVC\\SleighList\\wwwroot\\images\\loguinho.png",
+      "PackagePath": "staticwebassets\\images\\loguinho.png"
     },
     {
       "Id": "C:\\Users\\50178746827\\Desktop\\SleighList_MVC\\SleighList\\wwwroot\\js\\site.js",
